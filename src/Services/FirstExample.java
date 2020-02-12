@@ -9,5 +9,8 @@ public class FirstExample {
 		if(i>3) {
 			System.out.println("3 ten büyük bir sayi");
 		}
+		
+		//deneme2
+		System.out.println("Git is closed");
 	}
 }
